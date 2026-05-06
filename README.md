@@ -1,4 +1,4 @@
-# WebScrappers
+# WebScrapper in java
 # Compilation and Execution Guide
 
 ## Requirements
@@ -7,8 +7,6 @@ Before compiling and running the project, the following software must be install
 
 - Java JDK 17 or newer
 - Maven
-- Python 3
-- Scrapy
 
 ---
 
